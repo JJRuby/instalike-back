@@ -1,0 +1,10 @@
+node_modules
+chave-api.txt
+.env
+
+Log e senha do banco de dados 
+julianaruby
+eoY7ifyLypHLfPRr
+
+String de conexao
+mongodb+srv://julianaruby:<db_password>@cluster0.vwy7g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
